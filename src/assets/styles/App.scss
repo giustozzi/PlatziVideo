@@ -1,10 +1,9 @@
-@import "./Vars.scss";
-@import "./Media.scss";
+@import './Vars.scss';
 
 body {
   margin: 0;
   font-family: $theme-font;
-  background: $main-color;
+  background: $purple;
 }
 
 * {

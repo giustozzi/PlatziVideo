@@ -3,6 +3,8 @@
   padding-left: 30px;
   width: 100%;
   position: relative;
+  overflow-x: auto; 
+  overflow-y: hidden;
 }
 
 .carousel__container {
